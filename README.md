@@ -1,6 +1,6 @@
 <h2 align="center">
     🏆 Thiago Demas 🏆 
-</h1>
+</h2>
 <br>
 
 <div align="center">
