@@ -16,7 +16,7 @@
  </p>
 
  <p >
-  <img alt="octocat" src="./oct-thiago.png" width="50%" style="padding: 10px">
+  <img alt="octocat" src="https://raw.githubusercontent.com/Thiagodemas/thiagodemas/master/oct-thiago.png" width="50%" style="padding: 10px">
 </p>
 
 
