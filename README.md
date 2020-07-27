@@ -16,7 +16,7 @@
  </p>
 
  <p align="center">
-  <img alt="octocat" src="./oct.png" width="50%" style="padding: 10px">
+  <img alt="octocat" src="./oct-thiago.png" width="50%" style="padding: 10px">
 </p>
 
 
