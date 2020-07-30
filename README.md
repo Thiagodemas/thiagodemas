@@ -15,9 +15,7 @@
     Graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Rio Grande do Norte (IFRN). Web Developer desde 2017. Atualmente trabalhando como desenvolvedor Front-end.
  </p>
 
- <p >
-  <img alt="octocat" src="https://raw.githubusercontent.com/Thiagodemas/thiagodemas/master/oct-thiago.png" width="50%" style="padding: 10px">
-</p>
+
 
 
 
