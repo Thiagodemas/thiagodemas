@@ -5,7 +5,7 @@
 
 <p>
    Graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Rio Grande do Norte (IFRN). 
-Web Developer desde 2017.
+Web Developer desde 2016.
 Atualmente trabalhando como desenvolvedor Front-end com React.js, Angular, Wordpress e Mysql e desenvolvimento de Aplicativos com React Native. 
 Estudante da GoStack da Rocketseat com foco em React.js, React Native e Node.js
 Experiência no Back-end utilizando PHP, Angular e Yii2.
