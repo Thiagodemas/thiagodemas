@@ -4,7 +4,7 @@
 <br>
 
 <p>
-   Meu nome é Thiago Demas, trabalho atualmente na @MentoresDigital. </br> Sou um cara sonhador, amo ajudar outras pessoas e estou sempre estudando e me atualizando sobre as novas tecnologias do mercado. <br/>
+   Meu nome é Thiago Demas, trabalho atualmente na @MentoresDigital. </br> Sou um cara sonhador, amo ajudar outras pessoas e estou sempre estudando e me atualizando sobre as novas tecnologias do mercado. <br/></br>
    Atualmente trabalho com Frontend utilizando React JS, Typescript, Criação de E-commerce e sites institucionais em Wordpress e Angular, Mas também tenho conhecimento em Backend usando Node, PHP e conhecimento em DevOps (AWS).
 
 Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Rio Grande do Norte (IFRN). 
