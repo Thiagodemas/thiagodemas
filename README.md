@@ -4,19 +4,14 @@
 <br>
 
 <p>
-   Graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Rio Grande do Norte (IFRN). 
-Web Developer desde 2016.
-Atualmente trabalhando como desenvolvedor Front-end com React.js, Angular, Wordpress e Mysql e desenvolvimento de Aplicativos com React Native. 
-Estudante da GoStack da Rocketseat com foco em React.js, React Native e Node.js
-Experiência no Back-end utilizando PHP, Angular e Yii2.
+   Meu nome é Thiago Demas, trabalho atualmente na @MentoresDigital. Sou um cara sonhador, amo ajudar outras pessoas e estou sempre estudando e me atualizando sobre as novas tecnologias do mercado. <br/>
+   Atualmente trabalho com Frontend utilizando React JS, Typescript, Criação de E-commerce e sites institucionais em Wordpress e Angular, Mas também tenho conhecimento em Backend usando Node, PHP e conhecimento em DevOps (AWS).
+
+Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Rio Grande do Norte (IFRN). 
+Estudante da GoStack, Ignite da Rocketseat com foco em React.js, React Native e Node.js.
 
  </p>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/thiagodemas)
+<h3> 📫 Redes Sociais</h3>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiuryoliveira/)](https://www.linkedin.com/in/thiagodemas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiuryo1996@gmail.com)](mailto:thiago.demas7@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hiury.oliveira_/)](https://www.instagram.com/thiagodemas/)
-
-
-
 
